@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: pl.pollub.bsi
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, github-workflow-docker-registry, gradle, http-client, jdbc-hikari, jib, kotest, kotlin, kotlin-application, kotlin-extension-functions, log4j2, netty-server, postgres, properties, rabbitmq, readme, security, security-annotations, security-jwt, shade, sql-jdbi, testcontainers ]
